@@ -1,5 +1,5 @@
 {"whitelist-dev": {
-  "arn:aws:iam::012345678912:role/terraform": "tests",
+  "arn:aws:iam::012345678912:role/terraform": "shridhar",
   "arn:aws:ec2:*:*:*": "All EC2 Resources",
   "arn:aws:*::123456789012:*": "All Resources for account 123456789012"
   }
